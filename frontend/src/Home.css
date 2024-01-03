@@ -1,0 +1,12 @@
+/* Home.css */
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Set the height of the container to full viewport height */
+    background-color: #f3f3f3;
+    /* Your desired background color */
+    color: #333;
+    /* Your desired text color */
+}
